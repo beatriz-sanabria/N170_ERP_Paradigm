@@ -23,7 +23,8 @@ us to know how many milliseconds were between stimuli to put then the
 marks in the EEG recording.
 
 *** The purpose of this repository is to show the main file and 
-    the results we obtained after running it.
+    the results we obtained after running it. All the codes were 
+    programmed in Matlab.
     
     Due to the code license, we did not make a continuous versioning 
     in the repository

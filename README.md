@@ -17,10 +17,10 @@ were showed to keep the attention of the children in the paradigm.
 Otherwise, the fixation cross was used to avoid that the brain 
 habituated to the visual stimuli. 
 
-At the end of the paradigm, an excel file was created and contained 
+The code expects as input the images mentioned and as output an excel file was created. This file contained 
 the date and the hour when each stimulus showed up. This data allowed 
 us to know how many milliseconds were between stimuli to put then the 
-marks in the EEG recording.
+marks in the EEG recording. The following images are examples of the Matlab GUI.
 
 *** The purpose of this repository is to show the main file and 
     the results we obtained after running it. All the codes were 
